@@ -19,4 +19,4 @@ dependencies {
 }
 ```
 
-Dont change to 1.7 or higher.
+## Dont change to 1.7 or higher.
