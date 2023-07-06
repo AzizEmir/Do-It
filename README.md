@@ -13,9 +13,9 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="images/Splash.png" height="600"> </td>
-    <td><img src="images/main.png" height="600"></td>
-    <td><img src="images/AddNewTask.png" height="600"> </td>
+    <td><img src="images/Splash.png"> </td>
+    <td><img src="images/main.png"></td>
+    <td><img src="images/AddNewTask.png"> </td>
   </tr>
 </tbody>
 </table>
