@@ -3,9 +3,22 @@
 "This project is an edited version of the project [msindev/Do-It](https://github.com/msindev/Do-It) made with SQLite, but using JSON."
 
 
-|-|-|-|
-|![](images/Splash.png)|![](images/main.png)|![](images/AddNewTask.png)|
-
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>![](images/Splash.png)</td>
+    <td>![](images/main.png)</td>
+    <td>![](images/AddNewTask.png)</td>
+  </tr>
+</tbody>
+</table>
 
 ```groovy
 dependencies {
