@@ -4,13 +4,17 @@
 
 
 <table>
-<tbody>
-  <tr>
-    <td><img src="images/Splash.png"> </td>
-    <td><img src="images/main.png"></td>
-    <td><img src="images/AddNewTask.png"> </td>
-  </tr>
-</tbody>
+    <tbody>
+        <tr>
+            <td><img src="images/Splash.png"> </td>
+            <td><img src="images/main.png"> </td>
+            <td><img src="images/AddNewTask.png"> </td>
+        </tr>
+        <tr>
+            <td><img src="images/Delete.png"> </td>
+            <td><img src="images/Edit.png"> </td>
+        </tr>
+    </tbody>
 </table>
 
 ```groovy
