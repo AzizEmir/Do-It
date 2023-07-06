@@ -1,6 +1,6 @@
 # Do-It!
 
-## "This project is an edited version of the project [msindev/Do-It](https://github.com/msindev/Do-It) made with SQLite, but using JSON."
+### "This project is an edited version of the project [msindev/Do-It](https://github.com/msindev/Do-It) made with SQLite, but using JSON."
 
 
 <table>
