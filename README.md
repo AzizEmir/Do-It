@@ -6,7 +6,7 @@
 
 <img src="images/main.png"  height="600">
 
-<img src="images/Add new tast.png"  height="600">
+<img src="images/AddNewTast.png"  height="600">
 
 
 ```groovy
