@@ -2,7 +2,7 @@
 
 "This project is an edited version of the project [msindev/Do-It](https://github.com/msindev/Do-It) made with SQLite, but using JSON."
 
-<img src="images/Splash.png" height="50">
+<img src="images/Splash.png" height="300">
 
 <img src="images/main.png" >
 
