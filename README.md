@@ -2,14 +2,12 @@
 
 "This project is an edited version of the project [msindev/Do-It](https://github.com/msindev/Do-It) made with SQLite, but using JSON."
 
-<div style="height:100px">
+<img src="images/Splash.png" height="50">
 
-![](images/Splash.png)
+<img src="images/main.png" >
 
-![](images/main.png)
+<img src="images/Add new tast.png" >
 
-![](images/Add new task.png)
-</div>
 
 ```groovy
 dependencies {
