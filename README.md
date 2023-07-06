@@ -4,13 +4,6 @@
 
 
 <table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td><img src="images/Splash.png"> </td>
